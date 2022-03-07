@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## About me
+# Hi there, Caio here! 👋
 Passionate for startup environment, building teams and relations, focusing heavly on the problem and not the solution.
 
 I see coding as a way to solve problems, not as an end.

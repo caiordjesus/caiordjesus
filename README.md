@@ -15,8 +15,8 @@ I love beer, coffee, games and metal (my favourite band is Metallica, ask me any
 
 
 ### 📫 How to reach me:
-Email: caiordjesus@gmail.com
--
+- Email: caiordjesus@gmail.com
+
 
 <!--
 **caiordjesus/caiordjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

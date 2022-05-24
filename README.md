@@ -8,11 +8,13 @@ I love beer, coffee, games and metal (my favourite band is Metallica, ask me any
 - 💼 I’m currently working at Wildlife Studios @ Multiplayer Squad as a Backend Engineer. 
 - 🌱 I’m currently learning more about design patterns and software architecture.
 
-### 📖 Books that helped me become a better engineer:
+### 📖 Some of the books that helped me become a better engineer:
 - What you do is Who you are (Ben Horowitz)
 - No rules rule (Reed Hastings, Erin Meyer)
 - Clean Architecture (Robert Martin)
 - Dive into design patterns (Refactoring Guru)
+- Production-Ready Microservices (Susan Fowler)
+- Domain Driven Design (Eric Evans)
 
 
 ### 📫 How to reach me:

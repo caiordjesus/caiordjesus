@@ -10,8 +10,9 @@ I love beer, coffee, games and metal (my favourite band is Metallica, ask me any
 
 ### 📖 My favourite books (till now) are:
 - What you do is Who you are (Ben Horowitz)
-- The Culture Map (Erin Meyer)
 - No rules rule (Reed Hastings, Erin Meyer)
+- Clean Architecture (Robert Martin)
+- Dive into design patterns (Refactoring Guru)
 
 
 ### 📫 How to reach me:

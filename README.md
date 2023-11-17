@@ -5,8 +5,7 @@ I see coding as a way to solve problems, not as an end.
 
 I love beer, coffee, games and metal (my favourite band is Metallica, ask me anything about any album 😛)!
 
-- 💼 I’m currently working at Wildlife Studios @ Multiplayer Squad as a Backend Engineer. 
-- 🌱 I’m currently learning more about design patterns and software architecture.
+- 💼 I’m currently working at Hutch Games @ F1 Clash as a Server Engineer. 
 
 ### 📖 Some of the books that helped me become a better engineer:
 - What you do is Who you are (Ben Horowitz)
